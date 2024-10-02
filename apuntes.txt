@@ -1,0 +1,4 @@
+#Para instalar paquetes en R
+#ejecute una consola de R como administrador "sudo R" acontinuacion escriba lo siguiente:
+install.packages("Nombre del paquete")
+#Para consultar los paquetes disponibles visite https://r-forge.r-project.org/
